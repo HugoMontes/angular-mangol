@@ -38,9 +38,9 @@ export class AppComponent implements OnInit  {
             show: true,
             precision: 2,
             dictionary: {
-              copyCoordinates: 'Copy coordinates',
-              textCopied: 'Copied',
-              closeSnackbar: 'Close'
+              copyCoordinates: 'Copiar coordenadas',
+              textCopied: 'Copiado',
+              closeSnackbar: 'Cerrar'
             }
           },
         }
